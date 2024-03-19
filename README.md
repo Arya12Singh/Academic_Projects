@@ -3,7 +3,7 @@
 Welcome to my projects repository, where I showcase my journey in analytics and applied machine intelligence. I am currently a Master's student at Northeastern University, diving deep into the realms of machine learning and data analysis.
 
 ## About Me
-- 🎓 Master's Candidate in Analytics specializing in Applied Machine Intelligence at Northeastern University, sharpening my expertise in data-driven technologies.
+- 🎓 Master's in Analytics specializing in Applied Machine Intelligence at Northeastern University, sharpening my expertise in data-driven technologies.
 - 📅 On track to graduate in December 2024, I'm immersed in a rigorous curriculum that blends theoretical fundamentals with hands-on learning.
 - 🤖 Deeply passionate about uncovering patterns in data and developing machine learning models that translate those findings into actionable insights.
 - 🛠️ Proficient in a suite of data analytics tools and programming languages, including Python, R, SQL, and machine learning frameworks.
