@@ -30,7 +30,7 @@ I'm always open to collaboration and knowledge exchange. If you have ideas, ques
 - My coursework includes a blend of theory and practical application in subjects such as statistics, programming, and artificial intelligence.
 
 ## Let's Connect!
-- 📧 Email me at [aryasingh0124@gmail.com
+- 📧 Email me at aryasingh0124@gmail.com
 - 💼 Visit my [LinkedIn Profile](https://www.linkedin.com/in/arya-singh-3382a9269/) to connect professionally.
 
 Thank you for visiting my projects repository!
